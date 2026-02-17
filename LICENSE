@@ -1,0 +1,272 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2022-2026 Carnegie Mellon University
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+  The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.  You can apply it to
+your programs, too.
+
+  When we speak of free software, we are referring to freedom, not
+price.  Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), that you receive source code or can get it if you
+want it, that you can change the software or use pieces of it in new
+free programs, and that you know you can do these things.
+
+  To protect your rights, we need to prevent others from denying you
+these rights or asking you to surrender the rights.  Therefore, you have
+certain responsibilities if you distribute copies of the software, or if
+you modify it: responsibilities to respect the freedom of others.
+
+  For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must pass on to the recipients the same
+freedoms that you received.  You must make sure that they, too, receive
+or can get the source code.  And you must show them these terms so they
+know their rights.
+
+  Software developers who wish to develop free software may join the
+FSF's Software Freedom Conservancy program. For more information,
+see <https://www.sfconservancy.org/>.
+
+  Developers that use the GNU GPL protect your rights with two steps:
+(1) assert copyright on the software, and (2) offer you this License
+giving you legal permission to copy, distribute and/or modify it.
+
+  For the developers' and authors' protection, the GPL clearly explains
+that there is no warranty for this free software.  For both users' and
+authors' sake, the GPL requires that modified versions be marked as
+changed, so that their problems will not be attributed incorrectly to
+authors of previous versions.
+
+  Some devices are designed to deny users access to install or run
+modified versions of the software inside them, although the manufacturer
+can do so.  This is fundamentally incompatible with the aim of
+protecting users' freedom to change the software.  The systematic
+pattern of such abuse occurs in the area of products for individuals to
+use, which is precisely where it is most unacceptable.  Therefore, we
+have designed this version of the GPL to prohibit the practice for those
+products.  If such problems arise substantially in other domains, we
+stand ready to extend this provision to those domains in future versions
+of the GPL, while remaining committed to protecting the freedom of users.
+
+  Finally, every program is threatened constantly by software patents.
+States should not allow patents to restrict development and use of
+free software on general-purpose computers, but we do not wish to
+prevent patenting modes of providing functionality for a particular
+program.  We wish to avoid the special danger that redistributors of
+a free program will be individually able to obtain a license in order
+to impose the most restrictive version possible on recipients.
+  Unfortunately, the United States and other governments do not currently
+restrict software patents in this way; any patent would be enforceable
+in those jurisdictions.
+
+  The precise terms and conditions for copying, distribution and
+modification follow.
+
+                       TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "This License" refers to version 3 of the GNU General Public License.
+
+  "Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.
+
+  "The Program" refers to any copyrightable work licensed under this
+License.  Each licensee is addressed as "you".  "Licensees" and
+"recipients" may be individuals or organizations.
+
+  To "modify" a work means to copy from or adapt all or part of the work
+in a fashion other than copying, making changes to the work to produce
+a new work.  A "based work" means either the Program itself or any work
+that contains the Program or a portion of the Program.
+
+  A "standard interface" for an interoperability point means an
+interface that either is an official standard defined by a recognized
+standards body, or, in the case of interfaces specified for a particular
+programming language, one that is widely used among developers working
+in that language.
+
+  The "System Libraries" of an executable work include anything, other
+than the Program as a whole, that (a) is included in the normal form of
+packaging a Major Component, but which is not part of that Major
+Component, and (b) serves only to enable use of the work with that
+Major Component, or to implement a Standard Interface for which an
+implementation is available to the public in source code form.  A
+"Major Component", in this context, means either a) a "major component"
+of an operating system upon which the executable runs, or b) a compiler
+used to produce the work, or c) a tool for generating and executing
+intermediate files used with the work.
+
+  An "object code" means any non-source form of a work.
+
+  A "source code" means the preferred form of the work for making
+modifications to it.  Object code includes all output of compilations,
+but not the source code itself.  Object code for a library in particular
+includes header files and interface definition files, and the source
+code for shared libraries and dynamically linked subprograms.
+
+  "You" is not required to accept this License, since you have not
+signed it.  However, nothing else grants you permission to modify or
+distribute the Program or its derivative works.  These actions are
+prohibited by law if you do not accept this License.  Therefore, by
+modifying or distributing the Program (or a work based on the Program),
+you indicate your acceptance of this License to do so, and all its
+terms and conditions for copying, distributing or modifying the Program
+or works based on it.
+
+  1. Exception to Section 3 of the GNU GPL.
+
+  You may convey a covered work under sections 2 and 3 of this License
+without any of the permissions set forth in section 4, only if you
+receive the covered work from us under a separate license agreement
+complying with the terms of this License that authorizes you to use,
+copy, modify, distribute and exhibit the work.  This separate
+agreement must be in writing and must state that you intend to release
+the covered work under a different license agreement.  A separate
+license agreement does not have to comply with all of the requirements
+of this License.
+
+  2. Conveying Modified Versions.
+
+  If you modify a copy of the Program, or a work based on an object code
+produced by compiling the Program, and you convey a copy of the work
+(including the object code) to any person, then the terms of this
+License for that work are determined by the license you received for
+that work.  Therefore, if you received that work under a separate
+license agreement that authorizes you to use it for purposes other than
+those stated in that agreement, then your rights are governed by that
+agreement and not by this License.
+
+  You may charge any price or no price for each copy that you convey,
+and you may offer support or warranty protection for a fee.
+
+  3. Object Code Incorporating Material from Library Header Files.
+
+  The object code form of a work incorporating material from a header
+file in a library (other than a "System Library") need not include
+any of the material from that library's header file other than the
+interface definitions needed for compiling the work.  However, you
+must provide the source code for any object code produced by compiling
+that work.
+
+  4. Combined Works.
+
+  You may convey a combined work that is based on or derived from the
+Program and that includes material from a library (including header
+files) under your choice of license terms, provided that all such
+material is either:
+
+    a) released under a license that isGPL-compatible, and at least
+       one of the following conditions applies to all such material:
+
+      - (i) The copyright holder or author authorized to use the work;
+            or
+      - (ii) The material is accompanied by the corresponding written
+            warranty, if any, that the material is free software; or
+
+    b) contained in a separate license agreement with terms governing
+       use and distribution of the combined work other than this License.
+
+  For a combined work to be covered under sections 2 and 3, all such
+material must meet both conditions (i) and (ii) above.  The
+requirement for combined works is stricter than that for
+modifications; it includes the material from the library's header file,
+but only when included in object code form of a work based on the
+library.
+
+  5. Additional Terms.
+
+  "Additional permissions" are terms that supplement the terms of
+this License by making exceptions from one or more of its conditions.
+Additional permissions applicable to the entire Program shall be
+treated as though they were included in this License, to the extent
+that they are valid under applicable law.  If additional permissions
+apply only to part of the Program, that part may be used separately
+under those permissions, but the entire Program remains governed by
+this License without regard to the additional permissions.
+
+  When you convey a copy of a covered work, you may at your option
+remove any additional permissions from that copy, or from any part of
+that work.  Additional permissions may be written as a separate clause,
+but you may not combine them with the Program unless you receive
+written permission from the copyright holder.
+
+  6. Termination.
+
+  You may not propagate or modify the Program except as expressly
+provided under this License.  Any attempt otherwise to propagate or
+modify the Program is void, and will automatically terminate your
+rights under this License (including any other grants of permission).
+
+  Upon termination, all license rights are reinstated automatically,
+except as expressly provided in this License.  This does not apply
+if the violation was caused by your activities during propagation.
+
+  7. Limitation of Liability.
+
+  In no event shall the copyright holder or authors be liable for any
+damages, including any general, special, incidental or consequential
+damage arising out of the use or inability to use the Program (including
+but not limited to loss of data or data being rendered inaccurate or
+losses sustained by you or third parties or a failure of the Program
+to operate with any other programs), even if such holder or author has
+been advised of the possibility of such damages.
+
+  8. Disclaimer of Warranty.
+
+  THE PROGRAM IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE PROGRAM OR THE USE OR OTHER
+DEALINGS WITH THE PROGRAM.
+
+  9. Accepting Warranty or Additional Liability.
+
+  While redistributing the Program or a work based on it, you may
+choose to offer, and charge a fee for, acceptance of support, warranty,
+indemnity, or other liability obligations and/or rights consistent with
+this License.  You may incur costs for conveying copies of the Program,
+and you may at your option offer warranty protection in exchange for a fee.
+
+  10. Public License for Large Files.
+
+  For files that are too large to be included in a single copy of this
+License, you must include the following notice at the beginning of each
+source file:
+
+    Copyright (C) 2022-2026 Carnegie Mellon University
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+  Except as contained in this notice, the name of the copyright holder
+shall not be used in advertising or otherwise to promote the sale, use
+or other dealings in this Software without prior written authorization
+from the copyright holder.
+
