@@ -5,7 +5,7 @@ description = "YOLO and YOLO-Radar trainers for Hawk - GPL-3.0-only"
 license = {text = "GPL-3.0-only"}
 requires-python = ">=3.8,<3.13"
 dependencies = [
-    "cmuhawk>=0.1.0",
+    "cmuhawk>=0.1.0 @ git+https://github.com/cmusatyalab/hawk.git",
     "torch>=2.2,<3.0",
     "torchvision>=0.17,<0.18",
     "opencv-python-headless>=4.7.0",
