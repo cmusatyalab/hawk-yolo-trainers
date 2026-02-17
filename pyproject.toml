@@ -35,8 +35,8 @@ warn_return_any = true
 warn_unused_configs = true
 disallow_untyped_defs = true
 
-[tool.uv.sources]
-cmuhawk = { path = "../hawk", editable = true }
+#[tool.uv.sources]
+#cmuhawk = { path = "../hawk", editable = true }
 
 [build-system]
 requires = ["uv_build>=0.10.3,<0.11.0"]
